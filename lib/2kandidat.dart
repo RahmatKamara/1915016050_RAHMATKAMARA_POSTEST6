@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:posttest6_1915016050_rahmatkamara/count_controller.dart';
+import 'package:posttest7_1915016050_rahmatkamara/count_controller.dart';
 
 class Vote2 extends StatefulWidget {
   const Vote2({Key? key}) : super(key: key);

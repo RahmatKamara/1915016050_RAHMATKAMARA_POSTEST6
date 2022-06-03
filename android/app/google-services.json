@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782367914915",
+    "project_id": "e-voting-1915016050",
+    "storage_bucket": "e-voting-1915016050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782367914915:android:9a50659a2b68efde6f3816",
+        "android_client_info": {
+          "package_name": "com.example.posttest6_1915016050_rahmatkamara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782367914915-onicv9uk6hk3o7fv7fd4p77do3ncb7ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU8YHNPWeJezRDk5KlC2mWrj7v5thlvlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782367914915-onicv9uk6hk3o7fv7fd4p77do3ncb7ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

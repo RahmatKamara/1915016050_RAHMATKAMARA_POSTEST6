@@ -2,7 +2,7 @@
 
 import 'dart:async';
 import 'package:get/get.dart';
-import 'package:posttest6_1915016050_rahmatkamara/landing_page.dart';
+import 'landing_page.dart';
 
 class SplashScreenController extends GetxController {
   @override
